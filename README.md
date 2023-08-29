@@ -19,7 +19,7 @@
 `Shap==0.42.0`
 `CatBoost==1.2`
 `ydata-profiling==4.1.2`
-`mining_cleaning==2023.3.2`
+`mining_cleaning`
 
 ## Описание данных:
 
