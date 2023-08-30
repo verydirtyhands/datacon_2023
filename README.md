@@ -74,9 +74,9 @@
 Проанализированы данные: типы бактерий, методы синтеза наночастиц, лекарства, их дозы и классы, характеристики наночастиц, методы измерения активности, зоны ингибирования, усиление активности, зета-потенциал и лекарственную устойчивость. Построены модели на основе Catboost ,Keras для определения зона ингибирования препарата c наночастицами .Также все модели были интерпретированы при помощи shap </i>
 
 ## Ход работы:
-- предобработка и анализ данных (h1af.ipynb)
-- модель Keras + интерпретация (h1kf.ipynb)
-- модель Catboost + интерпретация (h1cf.ipynb)
+- предобработка и анализ данных <a href='https://nbviewer.org/github/verydirtyhands/datacon_2023/blob/main/h1af.ipynb'>(h1af.ipynb)</a>
+- модель Keras + интерпретация <a href='https://nbviewer.org/github/verydirtyhands/datacon_2023/blob/main/h1kf.ipynb'>(h1kf.ipynb)</a>
+- модель Catboost + интерпретация <a href='https://nbviewer.org/github/verydirtyhands/datacon_2023/blob/main/h1cf.ipynb'>(h1cf.ipynb)</a>
 
 ## Выводы по анализу
 <i>Анализ данных позволил сделать следующие выводы:
